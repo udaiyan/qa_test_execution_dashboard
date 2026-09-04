@@ -3,6 +3,8 @@
 Objective:
 To demonstrate the ability to develop a data dashboard that translates complex, raw operational data into clear, actionable intelligence for senior decision-makers. This dashboard simulates a QA environment, allowing management to track quality gate pass rates, automation coverage, and module-specific defect severity.
 
+![Screenshot](screenshot.png)
+
 Key Features:
 
 Executive KPIs: Real-time calculation of overall pass rate and automation coverage to support strategic planning.
@@ -23,4 +25,3 @@ Visual design principles for management consumption.
 
 Translating technical data (test statuses, execution times) into understandable formats (rates, trends, ratios).
 
-![Screenshot](screenshot.png)
