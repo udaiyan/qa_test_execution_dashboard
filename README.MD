@@ -23,4 +23,4 @@ Visual design principles for management consumption.
 
 Translating technical data (test statuses, execution times) into understandable formats (rates, trends, ratios).
 
-![Screenshot](qa_test_execution_dashboard/screenshot.png)
+![Screenshot](screenshot.png)
