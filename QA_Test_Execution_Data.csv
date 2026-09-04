@@ -1,0 +1,43 @@
+Date,Module,TestSuite,TestCaseID,Status,DefectSeverity,TestType,Environment,ExecutionTimeSeconds
+01/08/2026,User Login,Authentication,TC-101,Pass,None,Automated,Staging,12
+01/08/2026,User Login,Authentication,TC-102,Fail,Critical,Automated,Staging,45
+01/08/2026,User Login,Authentication,TC-103,Pass,None,Manual,Staging,30
+01/08/2026,Payment Gateway,Checkout,TC-201,Blocked,High,Automated,UAT,0
+01/08/2026,Payment Gateway,Checkout,TC-202,Pass,None,Automated,UAT,22
+01/08/2026,Search,Product Search,TC-301,Fail,Medium,Manual,Staging,18
+01/08/2026,Search,Product Search,TC-302,Pass,None,Manual,Staging,15
+02/08/2026,User Login,Authentication,TC-104,Pass,None,Automated,Production,10
+02/08/2026,User Login,Authentication,TC-105,Fail,High,Automated,Production,55
+02/08/2026,Payment Gateway,Refunds,TC-203,Pass,None,Manual,UAT,40
+02/08/2026,Payment Gateway,Refunds,TC-204,Blocked,Critical,Manual,UAT,0
+02/08/2026,Search,Product Search,TC-303,Pass,None,Automated,Staging,20
+03/08/2026,User Login,Authentication,TC-106,Pass,None,Manual,Staging,28
+03/08/2026,Payment Gateway,Checkout,TC-205,Fail,Critical,Automated,UAT,67
+03/08/2026,Payment Gateway,Checkout,TC-206,Pass,None,Automated,UAT,19
+03/08/2026,Search,Product Search,TC-304,Pass,None,Manual,Production,12
+03/08/2026,Dashboard,Reporting,TC-401,Fail,Low,Automated,Staging,33
+04/08/2026,User Login,Authentication,TC-107,Pass,None,Automated,Production,11
+04/08/2026,Payment Gateway,Checkout,TC-207,Pass,None,Manual,UAT,35
+04/08/2026,Payment Gateway,Refunds,TC-208,Fail,Medium,Automated,UAT,48
+04/08/2026,Search,Product Search,TC-305,Pass,None,Automated,Staging,14
+05/08/2026,User Login,Authentication,TC-108,Blocked,High,Manual,Staging,0
+05/08/2026,Payment Gateway,Checkout,TC-209,Pass,None,Automated,Production,21
+05/08/2026,Dashboard,Reporting,TC-402,Pass,None,Manual,Staging,25
+05/08/2026,Dashboard,Reporting,TC-403,Fail,Critical,Automated,Staging,78
+06/08/2026,User Login,Authentication,TC-109,Pass,None,Automated,UAT,13
+06/08/2026,Payment Gateway,Refunds,TC-210,Pass,None,Manual,UAT,32
+06/08/2026,Search,Product Search,TC-306,Fail,High,Automated,Production,61
+06/08/2026,Search,Product Search,TC-307,Pass,None,Manual,Production,16
+07/08/2026,User Login,Authentication,TC-110,Pass,None,Manual,Staging,29
+07/08/2026,Payment Gateway,Checkout,TC-211,Pass,None,Automated,UAT,18
+07/08/2026,Dashboard,Reporting,TC-404,Blocked,Medium,Automated,Staging,0
+08/08/2026,User Login,Authentication,TC-111,Fail,Low,Automated,Production,42
+08/08/2026,Payment Gateway,Refunds,TC-212,Pass,None,Automated,UAT,26
+08/08/2026,Search,Product Search,TC-308,Pass,None,Manual,Staging,11
+09/08/2026,Payment Gateway,Checkout,TC-213,Pass,None,Manual,Production,38
+09/08/2026,User Login,Authentication,TC-112,Pass,None,Automated,UAT,15
+09/08/2026,Dashboard,Reporting,TC-405,Fail,High,Manual,Staging,52
+10/08/2026,User Login,Authentication,TC-113,Pass,None,Manual,Production,27
+10/08/2026,Payment Gateway,Refunds,TC-214,Pass,None,Automated,UAT,20
+10/08/2026,Search,Product Search,TC-309,Blocked,Critical,Automated,Staging,0
+10/08/2026,Dashboard,Reporting,TC-406,Pass,None,Automated,Staging,23
