@@ -83,11 +83,15 @@ The dashboard uses a dummy dataset (`QA_Test_Execution_Data.csv`) containing sim
 ---
 
 ## Project Structure
+
+```text
 qa-test-execution-dashboard/
-├── QA_Test_Execution_Dashboard.pbix # Power BI report file
-├── QA_Test_Execution_Data.csv # Dummy dataset
-├── README.md # This file
-└── screenshot.png # Dashboard preview
+├── QA_Test_Execution_Dashboard.pbix    # Power BI report
+├── QA_Test_Execution_Data.csv          # Dummy dataset
+├── README.md                           # Project documentation
+└── screenshot.png                      # Dashboard preview
+```
+
 
 ---
 
